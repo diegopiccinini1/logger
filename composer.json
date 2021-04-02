@@ -1,0 +1,12 @@
+{
+    "name": "utente/phpunittest",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "Diego Piccinini",
+            "email": "diego.piccinini.studio@fitstic-edu.com"
+        }
+    ]
+}
